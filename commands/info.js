@@ -18,7 +18,7 @@ module.exports = {
         { name: '🌍 Jumlah Server', value: `${message.client.guilds.cache.size} Server`, inline: true },
         { name: '👥 Jumlah Pengguna', value: `${message.client.users.cache.size} Pengguna`, inline: true },
         { name: '📅 Tanggal Bergabung', value: message.client.user.createdAt.toLocaleDateString(), inline: true },
-        { name: '💬 Dukungan', value: '[Support Server](https://discord.gg/eBW98yWg)', inline: false },
+        { name: '💬 Dukungan', value: '[Support Server](https://discord.gg/yJRe9u4R)', inline: false },
         { name: '🔗 Undang Bot', value: '[Klik untuk mengundang Bot](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID&scope=bot&permissions=YOUR_PERMISSIONS)', inline: false }
       )
       .setFooter({ text: 'Metanoia Evolution | Your friendly bot! 🤗', iconURL: message.client.user.displayAvatarURL() }) // Footer dengan ikon bot
