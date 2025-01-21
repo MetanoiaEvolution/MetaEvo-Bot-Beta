@@ -68,5 +68,5 @@ Jika semuanya diatur dengan benar, bot kamu akan online dan siap digunakan.
 - Gunakan `!Speedtype ` untuk melakukan tes kecepatan mengetik.
 - Gunakan `!reportuser` untuk melaporkan perilaku buruk dari pengguna tertentu.
 
-###Lisensi
+## Lisensi
 Distributed under the MIT License. See LICENSE for more information.
