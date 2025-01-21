@@ -10,6 +10,7 @@ MetaEvo Bot adalah Discord bot yang dirancang untuk memberikan pengalaman server
 = Report User: Memungkinkan pengguna melaporkan perilaku yang tidak diinginkan.
 - Setup Auto: Menyediakan konfigurasi otomatis untuk setup channel dll (link masih dalam perbaikan)
 - SpeedType Test: Tes kecepatan mengetik untuk pengguna.
+- Antiraid : mencegah raid
 
 ## Persyaratan
 - Node.js (versi 16.x atau lebih tinggi)
@@ -67,6 +68,7 @@ Jika semuanya diatur dengan benar, bot kamu akan online dan siap digunakan.
 - Gunakan `!setupdiscord` untuk konfigurasi otomatis.
 - Gunakan `!Speedtype ` untuk melakukan tes kecepatan mengetik.
 - Gunakan `!reportuser` untuk melaporkan perilaku buruk dari pengguna tertentu.
+- Gunakan `!antiraid on/off` untuk mengaktifkan/mematikan antiraid 
 
 ## Lisensi
 Distributed under the MIT License. See LICENSE for more information.
