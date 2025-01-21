@@ -53,9 +53,10 @@ Setelah selesai, pastikan file .env berisi token bot Discord Anda:
 
 ```makefile
 DISCORD_TOKEN=your-bot-token-here
+```
 Langkah 4: Menjalankan Bot
 Untuk menjalankan bot, gunakan perintah berikut:
-```
+
 ```bash
 node index.js
 ```
